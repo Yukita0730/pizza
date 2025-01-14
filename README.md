@@ -1,39 +1,58 @@
 # pizza
+
 ## What is your favorite holiday destination?
-  Somalia
+home
+
 ## What should your dreamjob be like?
-  Like a hobby
+with Lita
+
 ## What really makes you angry?
-  Peopple 
+Github
+
 ## Who is your hero?
-  Wolverine
+Fränzi
+
 ## If you could live anywhere, where would it be?
-  In Germany
+Heven
+
 ## What did you want to be when you were small?
-  IT-ist
+prinsess
+
 ## Would you rather ride a bike, ride a horse, or drive a car?
-  A bike
+horse
+
 ## what is your favorite dish? (list the main ingredients)
- Pizza
+cheese
+
 ## What is your favorite color?
-  blue
+red
+
 ## What is your fav. videogame?
- Assassins Creed
+animal crossing
+
 ## Does it bother you to be confronted with unexpected situations?
- Depends
+yea
+
 ## In the evening, would you rather play a game, visit a friend, watch a movie, or read?
-  Watch a movie
+sleep
+
 ## How would your friends describe you?
-  Fantastic
+creepy
+
 ## What is the best gift you have been given?
- Frozen rose
+me
+
 ## What is the worst gift you have received?
-I don t know
+marriage
+
 ## If you were a super-hero, what powers would you have?
-Eidetic Memory
+eat suger a lot
+
 ## What's the most unusual thing you've ever eaten?
-Shark
+whale
+
 ## Is your glass half full or half empty?
- Half full
+full
+
 ## If you had a warning label, what would yours say?
-Parental Advirsory - Explicit content
+wtf
